@@ -1,0 +1,16 @@
+{
+  "name": "font-face-mixin",
+  "version": "1.0.1",
+  "description": "A mixin for writing @font-face rules in SASS",
+  "homepage": "https://github.com/noderat/font-face-mixin",
+  "main": "_fontface.scss",
+  "repository": "github:noderat/font-face-mixin",
+  "contributors": [
+    "Chris Coggburn <chris@pixelandline.com>",
+    "Jonathan Neal"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noderat/font-face-mixin/issues"
+  }
+}

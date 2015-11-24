@@ -1,6 +1,6 @@
 {
   "name": "font-face-mixin",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A mixin for writing @font-face rules in SASS",
   "homepage": "https://github.com/noderat/font-face-mixin",
   "main": "_fontface.scss",
